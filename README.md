@@ -2,11 +2,12 @@
 
 # Environment Setup
 
-	The proposed algorithms are implemented in Python 3.10.12. All experiments and performance evaluations reported in this paper are conducted on a high-memory Linux server equipped with a single Intel Xeon Silver 4210 processor (2.20GHz) and 1 TB of RAM.
 
-	For development and testing purposes, our codebase maintains cross-platform compatibility. It has been verified to run on consumer-grade hardware, including an Apple M1 system with 8GB of RAM running macOS Monterey 12.3, as well as an Intel Core i7-10700 system with 16GB of RAM running Windows 10.
+**Implementation and Primary Environment:** The proposed algorithms are implemented in Python 3.10.12. All experiments and performance evaluations reported in this paper are conducted on a high-memory Linux server equipped with a single Intel Xeon Silver 4210 processor (2.20GHz) and 1 TB of RAM.
 
-	However, for processing large-scale datasets and achieving optimal performance, we strongly recommend utilizing a server-grade environment. The primary server configuration used in our experiments provides the necessary computational resources—particularly the ample memory capacity—to ensure efficient execution and stability.
+**Compatibility:** For development and testing purposes, our codebase maintains cross-platform compatibility. It has been verified to run on consumer-grade hardware, including an Apple M1 system with 8GB of RAM running macOS Monterey 12.3, as well as an Intel Core i7-10700 system with 16GB of RAM running Windows 10.
+
+**Recommendation:** However, for processing large-scale datasets and achieving optimal performance, we strongly recommend utilizing a server-grade environment. The primary server configuration used in our experiments provides the necessary computational resources—particularly the ample memory capacity—to ensure efficient execution and stability.
 
 
 
