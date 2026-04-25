@@ -329,7 +329,7 @@ if __name__ == "__main__":
 			avg_time = 0
 			avg_quality = 0
 			avg_len=0
-			seed_number=5
+			seed_number=50
 			for i in range( seed_number):
 				seed=int(choice(list(motif_max_cc)))
 				quality,S,runtime= G.HLA(alpha,seed,epsilon)
